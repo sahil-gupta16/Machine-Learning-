@@ -1,5 +1,5 @@
-# Machine-Learning- King County House price prediction problem
-Machine Learning projects at Praxis Business School  
+# Machine Learning King County House price prediction problem.
+Machine Learning project at Praxis Business School.  
 
 Objective : To predict the price of the house based on the set of predictors in King County, Washington, US.
 
